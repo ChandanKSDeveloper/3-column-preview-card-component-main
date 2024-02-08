@@ -23,8 +23,8 @@ Good project for Beginner. focus on applying grid and flexbox according to devic
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [3-column-preview-card-component-main](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-and-grid-NnxrfBUatY)
+- Live Site URL: [3-column-preview-card-component-main](https://indian-goku.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
